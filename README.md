@@ -28,7 +28,7 @@ A modern, animated portfolio template for developers, designers, and creators. B
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/oneportfolio.git
+git clone https://github.com/nitinprajwal/oneportfolio.git
 ```
 
 2. Install dependencies:
@@ -122,4 +122,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Nitin Prajwal
